@@ -40,6 +40,7 @@ bin/
 .vscode/
 
 ### Mac OS ###
-.DS_Storedb/
+.DS_Store
+db/
 db_test/
 db.properties
